@@ -15,10 +15,10 @@
 
 # ── Who you are ─────────────────────────────────────────────
 
-name = "Juan Pérez"                # ← Required. Everything else is optional.
+name = "Suad Mohamed"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia journalist telling the East Bay's stories"
+#tagline = "Multimedia Journalist"
 
 location = "Berkeley, California"
 
@@ -30,7 +30,7 @@ location = "Berkeley, California"
 # Fill them in if they apply to you. If not, leave them empty.
 
 job_title = "Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
-employer = "Richmond Confidential"      # Where you work, intern, or freelance most
+employer = "Emeryville Today"      # Where you work, intern, or freelance most
 
 # ── The look of your site ───────────────────────────────────
 #
@@ -44,18 +44,18 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "editorial"
 
 # ── How people reach you ────────────────────────────────────
 
-email = "juan.perez@example.com"
+email = "suadmohamed@berkeley.edu"
 phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
   "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
+  "linkedin.com/in/suad-mohamed-a35779230",
   "https://bsky.app/profile/example.bsky.social",
 ]
 
@@ -64,8 +64,8 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+banner_photo = "media/suadheadshot.jpg"   # A portrait or banner photo of you
+resume = ""         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -74,19 +74,18 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Fresno, where the kitchen radio was
-always tuned to the news. I've been hooked ever since.
 
-My reporting covers housing, transportation and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
+Hello, my name is Suad and I'm a graduate journalism student at UC Berkeley with a 
+focus on multimedia story telling. I grew up in West London and have always been
+passionate about telling stories that reflect society and spark meaningful conversations.
 
-When I'm not reporting, you'll find me photographing high school
-soccer, digging through city budget PDFs, or hunting down the Bay
-Area's best al pastor.
+My work focuses on identity, representation and lived experience. I draw from a 
+strong documentary foundation that shapes my approach across all formats. I hold a B.A
+in Television, Film & New Media Production from San Diego State University, with a 
+minor in Journalism and a specialization in Digital and Social Media Studies. 
+
+
+
 """
 
 # Optional extra line at the bottom of every page.
@@ -119,32 +118,8 @@ date = "March 2026"
 category = "Journalism"
 outlet = "Berkeleyside"
 
-[[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
-date = "January 2026"
-category = "Journalism"
-outlet = "The San Francisco Chronicle"
-
-[[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/food-bank.jpg"
-date = "November 2025"
-category = "Journalism"
-outlet = "The Daily Californian"
-
 # This one has no image on purpose — the site still handles it gracefully.
-[[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
+
 
 # ── A photo essay stored right here on your site ────────────
 #
