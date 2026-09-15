@@ -110,14 +110,20 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = ""
-description = ""
-url = ""
-image = ""
-date = ""
-category = ""
-outlet = ""
-
+title = "Photojournalism Assignment"
+description = "Photo assignment from UC Berkeley Journalism School."
+date = "September 2026"
+category = "Photojournalism"
+photos = [
+  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/photo-assignment/perspective.jpg | Perspective",
+  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
+  "media/photo-assignment/symmetry.jpg | Symmetry",
+  "media/photo-assignment/foreground-background.jpg | Foreground-background",
+  "media/photo-assignment/portrait.jpg | Portrait",
+  "media/photo-assignment/moment.jpg | Moment",
+  "media/photo-assignment/framing.jpg | Framing",
+]
 # This one has no image on purpose — the site still handles it gracefully.
 
 
@@ -126,43 +132,21 @@ outlet = ""
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-[[work]]
-title = ""
-description = ""
-date = ""
-category = ""
-photos = [
-  ",
-  "",
-  "",
-  "",
-  "",
-]
+
 
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = ""
-description = ""
-audio = ""
-image = ""
-date = ""
-category = ""
+
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
 
-[[work]]
-title = ""
-description = ""
-video = ""
-date = ""
-category = ""
+
 
 
 # ============================================================
