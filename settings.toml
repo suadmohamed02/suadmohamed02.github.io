@@ -54,9 +54,9 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
-  "https://www.instagram.com/example",
+ 
   "linkedin.com/in/suad-mohamed-a35779230",
-  "https://bsky.app/profile/example.bsky.social",
+
 ]
 
 # ── Photos and files ────────────────────────────────────────
@@ -110,13 +110,13 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
-category = "Journalism"
-outlet = "Berkeleyside"
+title = ""
+description = ""
+url = ""
+image = ""
+date = ""
+category = ""
+outlet = ""
 
 # This one has no image on purpose — the site still handles it gracefully.
 
@@ -127,16 +127,16 @@ outlet = "Berkeleyside"
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
+title = ""
+description = ""
+date = ""
+category = ""
 photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+  ",
+  "",
+  "",
+  "",
+  "",
 ]
 
 # ── An audio story stored on your site ──────────────────────
@@ -145,12 +145,12 @@ photos = [
 # is optional. Clicking the work opens an audio player.
 
 [[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Multimedia"
+title = ""
+description = ""
+audio = ""
+image = ""
+date = ""
+category = ""
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -158,11 +158,11 @@ category = "Multimedia"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+title = ""
+description = ""
+video = ""
+date = ""
+category = ""
 
 
 # ============================================================
